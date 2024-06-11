@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/buried/static/css/main.05deaf0b.css",
-    "main.js": "/buried/static/js/main.c59e2c3d.js",
-    "static/js/453.ad6eb26e.chunk.js": "/buried/static/js/453.ad6eb26e.chunk.js",
-    "static/media/logo.svg": "/buried/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/buried/index.html",
-    "main.05deaf0b.css.map": "/buried/static/css/main.05deaf0b.css.map",
-    "main.c59e2c3d.js.map": "/buried/static/js/main.c59e2c3d.js.map",
-    "453.ad6eb26e.chunk.js.map": "/buried/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "./static/css/main.ba603f01.css",
+    "main.js": "./static/js/main.130a1458.js",
+    "static/js/210.5754d512.chunk.js": "./static/js/210.5754d512.chunk.js",
+    "static/js/453.accdc01c.chunk.js": "./static/js/453.accdc01c.chunk.js",
+    "static/media/Coconat-Demi.otf": "./static/media/Coconat-Demi.b5bf7a88608fbb094813.otf",
+    "static/media/Coconat-Regular.otf": "./static/media/Coconat-Regular.9dbec1da169306545f0a.otf",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.ba603f01.css.map": "./static/css/main.ba603f01.css.map",
+    "main.130a1458.js.map": "./static/js/main.130a1458.js.map",
+    "210.5754d512.chunk.js.map": "./static/js/210.5754d512.chunk.js.map",
+    "453.accdc01c.chunk.js.map": "./static/js/453.accdc01c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.05deaf0b.css",
-    "static/js/main.c59e2c3d.js"
+    "static/css/main.ba603f01.css",
+    "static/js/main.130a1458.js"
   ]
 }
