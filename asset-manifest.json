@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.98c77bbe.css",
-    "main.js": "./static/js/main.8ad6d4d4.js",
-    "static/js/210.e160b844.chunk.js": "./static/js/210.e160b844.chunk.js",
-    "static/js/453.8aa8d35e.chunk.js": "./static/js/453.8aa8d35e.chunk.js",
-    "static/media/Archivo-Bold.otf": "./static/media/Archivo-Bold.77f5fb8bece867a82285.otf",
-    "static/media/Archivo-Medium.otf": "./static/media/Archivo-Medium.02fcb16216f897b7e459.otf",
-    "static/media/Archivo-Regular.otf": "./static/media/Archivo-Regular.1b6b85fda611ee5207a4.otf",
+    "main.css": "./static/css/main.05ef2b62.css",
+    "main.js": "./static/js/main.15e7cd40.js",
+    "static/js/453.accdc01c.chunk.js": "./static/js/453.accdc01c.chunk.js",
+    "static/media/EBGaramond-Bold.ttf": "./static/media/EBGaramond-Bold.4a3c787c6b54ac570a9f.ttf",
+    "static/media/EBGaramond-Regular.ttf": "./static/media/EBGaramond-Regular.639c0c8d2c681d29c6be.ttf",
+    "static/media/EBGaramond-BoldItalic.ttf": "./static/media/EBGaramond-BoldItalic.a8551a355c29b1801f60.ttf",
+    "static/media/EBGaramond-Italic.ttf": "./static/media/EBGaramond-Italic.d0f3dbdb3dc7ab1682de.ttf",
+    "static/media/NyghtSerif-BoldItalic.woff2": "./static/media/NyghtSerif-BoldItalic.2a97cf2c32b7d5aaaade.woff2",
+    "static/media/NyghtSerif-RegularItalic.woff2": "./static/media/NyghtSerif-RegularItalic.f59e24eb7ef0f3bcf84d.woff2",
+    "static/media/NyghtSerif-Bold.woff2": "./static/media/NyghtSerif-Bold.b32971e21224c1262512.woff2",
+    "static/media/NyghtSerif-Regular.woff2": "./static/media/NyghtSerif-Regular.5fc547c0dd7a6c06f64a.woff2",
+    "static/media/MaziusDisplay-Bold.woff2": "./static/media/MaziusDisplay-Bold.010cd455ea24077bab1d.woff2",
+    "static/media/MaziusDisplay-Regular.woff2": "./static/media/MaziusDisplay-Regular.446424f4145d8242c600.woff2",
+    "static/media/MaziusDisplay-Extraitalic.woff2": "./static/media/MaziusDisplay-Extraitalic.47ef2992e472e5077d0f.woff2",
+    "static/media/MaziusDisplay-ExtraItalicBold.woff2": "./static/media/MaziusDisplay-ExtraItalicBold.761a4202219ab7a696bf.woff2",
     "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "./index.html",
-    "main.98c77bbe.css.map": "./static/css/main.98c77bbe.css.map",
-    "main.8ad6d4d4.js.map": "./static/js/main.8ad6d4d4.js.map",
-    "210.e160b844.chunk.js.map": "./static/js/210.e160b844.chunk.js.map",
-    "453.8aa8d35e.chunk.js.map": "./static/js/453.8aa8d35e.chunk.js.map"
+    "main.05ef2b62.css.map": "./static/css/main.05ef2b62.css.map",
+    "main.15e7cd40.js.map": "./static/js/main.15e7cd40.js.map",
+    "453.accdc01c.chunk.js.map": "./static/js/453.accdc01c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98c77bbe.css",
-    "static/js/main.8ad6d4d4.js"
+    "static/css/main.05ef2b62.css",
+    "static/js/main.15e7cd40.js"
   ]
 }
