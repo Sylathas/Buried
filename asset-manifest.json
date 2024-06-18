@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.d9235ada.css",
-    "main.js": "./static/js/main.b9fa688b.js",
+    "main.css": "./static/css/main.198f1c8e.css",
+    "main.js": "./static/js/main.ea210bfa.js",
     "static/js/453.accdc01c.chunk.js": "./static/js/453.accdc01c.chunk.js",
     "static/media/EBGaramond-Bold.ttf": "./static/media/EBGaramond-Bold.4a3c787c6b54ac570a9f.ttf",
     "static/media/EBGaramond-Regular.ttf": "./static/media/EBGaramond-Regular.639c0c8d2c681d29c6be.ttf",
@@ -17,12 +17,12 @@
     "static/media/MaziusDisplay-ExtraItalicBold.woff2": "./static/media/MaziusDisplay-ExtraItalicBold.761a4202219ab7a696bf.woff2",
     "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "./index.html",
-    "main.d9235ada.css.map": "./static/css/main.d9235ada.css.map",
-    "main.b9fa688b.js.map": "./static/js/main.b9fa688b.js.map",
+    "main.198f1c8e.css.map": "./static/css/main.198f1c8e.css.map",
+    "main.ea210bfa.js.map": "./static/js/main.ea210bfa.js.map",
     "453.accdc01c.chunk.js.map": "./static/js/453.accdc01c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9235ada.css",
-    "static/js/main.b9fa688b.js"
+    "static/css/main.198f1c8e.css",
+    "static/js/main.ea210bfa.js"
   ]
 }
